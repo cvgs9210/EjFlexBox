@@ -1,0 +1,40 @@
+.flex-container{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    border: 10px blue solid;
+    height: 1000px;
+}
+
+.flex-item {
+    background-color: tomato;
+    padding: 5px;
+    width: 200px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+    border: 1px greenyellow solid;
+    height: 150px;
+}
+
+.flex-item1 {
+    background-color: tomato;
+    padding: 5px;
+    width: 200px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+    border: 1px greenyellow solid;
+    height: 150px;
+    
+}
+
+/* .flex-item:nth-child(2n){
+    height: 250px;
+    line-height: 250px;
+
+} */
